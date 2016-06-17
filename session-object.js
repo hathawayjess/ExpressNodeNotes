@@ -1,3 +1,5 @@
+//This is the session object created by express-session
+
 Session {
   cookie:
    { path: '/',

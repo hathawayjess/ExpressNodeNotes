@@ -1,3 +1,5 @@
+//This is the result of a console.log(res)
+
 ServerResponse {
   domain: null,
   _events: { finish: [Function: resOnFinish] },

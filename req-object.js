@@ -1,3 +1,7 @@
+//This is the result of console.log(req) inside of an express endpoint. 
+//If you scroll down, you'll see a body property, a params property, and a query property.
+
+
 IncomingMessage {
   _readableState:
    ReadableState {
